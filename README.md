@@ -1,3 +1,22 @@
+
+# Welcome to my Profile! 👋
+‌
+<table>
+<tr>
+<td width="250">
+<img src="IMG_20260606_160018.jpg" width="250" style="border-radius: 15px; border: 2px solid #58a6ff;">
+</td>
+<td>
+<h2>Dr. Pegah</h2>
+<p><b>PhD in Applied Linguistics & TESOL | University of Tehran</b></p>
+<p><b>Academic Lecturer (10+ Years Experience) | IAU Tabriz & Marand</b></p>
+<p>Researcher in Negotiated Epistemic Agency (NEA) & Digital Literacy</p>
+<a href="https://orcid.org/0009-0000-6235-3010">
+<img src="https://img.shields.io/badge/ORCID-0009--0000--6235--3010-A6CE39?logo=orcid&logoColor=white" alt="ORCID Profile">
+</a>
+</td>
+</tr>
+</table>
 # Dr-Pegah-Merrikhi-
 > 🎓 PhD in Applied Linguistics @ University of Tehran | 🏫 10+ Years University Lecturer | 🔬 Researching Negotiated Epistemic Agency &amp; Decolonizing Algorithms | 🌐 Multilingual Researcher &amp; Python Enthusiast
 
