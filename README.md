@@ -71,4 +71,5 @@ I am an expert in **Applied Linguistics** with over a decade of experience in hi
 ### 📫 Let's Connect
 - **ORCID:** [0009-0000-6235-3010](https://orcid.org/0009-0000-6235-3010) 🆔
 - **LinkedIn:** [Your Profile Link]
-- **Email:** [Your Email Address]
+- **Email:** deniz.qizi@gmail.com
+Pegah.Merrikhiii@gmail.com
